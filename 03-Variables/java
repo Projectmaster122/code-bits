@@ -1,0 +1,12 @@
+class banana
+
+public class Main() {
+      public static void Main(String[] args) {
+          string a = "a";
+          bool a = true
+          bool a = false
+          double a = 9.1
+          int a = 1
+          System.out.println("hello world");
+     }
+}
