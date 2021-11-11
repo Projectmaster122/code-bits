@@ -1,0 +1,5 @@
+a = 1
+a = True
+a = "a"
+a = 1.2
+a = False
