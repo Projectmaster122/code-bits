@@ -1,0 +1,22 @@
+COMMENT IN CPP:
+// this is a comment
+MULTILINE COMMENT IN CPP
+/* this is a multiline comment */
+
+End of function in cpp:
+function(args);
+open and close of if statement:
+if (1 == 1) {
+
+}
+
+this is the same for: for statements, any statement, class creations, function creations
+e.g
+
+void banana() {
+
+}
+
+for () {
+
+}
