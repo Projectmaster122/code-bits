@@ -1,0 +1,6 @@
+// var can't be changed.
+var a = 1;
+// const CAN be changed
+const a = 1;
+// let cant be changed
+let a = 1;
